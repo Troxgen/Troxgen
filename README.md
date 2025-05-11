@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
 </p>
 
-<p align="center"><i>“Kod yazmıyorum, sistem inşa ediyorum.”</i></p>
+<p align="center"><i>“Junior Developer”</i></p>
 
 ---
 
