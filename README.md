@@ -1,7 +1,3 @@
-<!-- Profil Başlangıcı: Hareketli Tiping SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Full+Stack+Developer+%7C+C%23%2C+Python%2C+PHP;Automation+Wizard+%7C+Selenium%2C+Bots%2C+Scraping;Creative+Visionary+%7C+After+Effects%2C+Premiere+Pro" alt="Typing SVG" />
-</p>
 
 ---
 
