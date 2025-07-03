@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">👋 Merhaba, ben <strong>Troxgen</strong></h1>
+<h1 align="center">👋 Merhaba, ben <strong>Emirhan</strong></h1>
 <p align="center">
   <em>Junior Developer · Çözüm Odaklı Kod Tutkunu</em>
 </p>
