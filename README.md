@@ -34,7 +34,7 @@
 ---
 
 ## ⭐ Featured Projects (Public)
-> Private projeleri burada göstermiyorum.
+
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
@@ -47,26 +47,3 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Troxgen&theme=onedark&show_icons=true&hide_border=true&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troxgen&theme=onedark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troxgen&theme=onedark&layout=compact&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🏆 Kupalar
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Troxgen&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📬 İletişim
-- Instagram: https://instagram.com/troxgen
-
-<p align="center"><b>🧩 “Bir yazılımcı sadece kod yazmaz, çözüm üretir.”</b></p>
